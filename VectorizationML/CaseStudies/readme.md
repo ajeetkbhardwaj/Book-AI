@@ -14,3 +14,6 @@
 12. Length Regulator Module of FastSpeech2
 13. Parsing DateTime from String Representations
 14. Sparse Matrix Factorization with ALS
+
+
+There are still some case studies available we have to perform...
